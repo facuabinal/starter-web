@@ -6,6 +6,6 @@ This repository is for showing how Git and GitHub worksss
 
 ## Purpose 
 
-Sample a ver si funca
+Ahora estaria
 
 ## Deployment
